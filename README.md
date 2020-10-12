@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Sebastián Villarroel, was born in Chile and moved to Germany in 2008. I learnt programming when I was a teenager, Pascal :) Studied Industrial Engineering, worked mainly in the financial industry and then dediced to start an insurance company.
+I am Sebastián Villarroel, was born in Chile and moved to Germany in 2008. I learnt programming when I was a teenager, Pascal :) Studied Industrial Engineering, worked mainly in the financial industry and then dediced to start an insurance company in 2016
 
 - 🔭 I’m currently working at [Coya](https://www.coya.com), company which I founded with Andrew Shaw back in September 2016.
 - 🌱 I’m currently learning clustering methods in Python
