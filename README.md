@@ -11,4 +11,4 @@ I learnt to program when I was a teenager, Pascal :). I have studied Industrial 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianvillarroel&layout=compact&langs_count=10)](https://github.com/sebastianvillarroel)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sebastianvillarroel&count_private=true)](https://github.com/sebastianvillarroel/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sebastianvillarroel&count_private=true)](https://github.com/sebastianvillarroel/)
