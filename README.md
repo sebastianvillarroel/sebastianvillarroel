@@ -4,11 +4,19 @@ I learnt to program when I was a teenager, Pascal :). I have studied Industrial 
 
 - 🔭 I’m currently working at [Coya](https://www.coya.com), company which I founded with Andrew Shaw back in September 2016.
 - 🌱 I’m currently learning clustering methods in Python
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastianvillarroel)
+- 📫 CV / How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastianvillarroel)
 
+### Technologies
+
+- Dbt
+- Airflow
 
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianvillarroel&layout=compact&langs_count=10)](https://github.com/sebastianvillarroel)
+
+and ofc SQL, Bash
+
+### Contributions Overview
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=sebastianvillarroel&count_private=true)](https://github.com/sebastianvillarroel/)
