@@ -6,10 +6,16 @@ I learnt to program when I was a teenager, Pascal :). I have studied Industrial 
 - 🌱 I’m currently learning clustering methods in Python
 - 📫 CV / How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastianvillarroel)
 
-### Technologies
+### Cloud, Tools and Technologies
 
+- AWS
 - Dbt
 - Airflow
+- Exasol
+- Tableau
+- Looker
+- Snowplow
+- Google Analytics
 
 ### Languages
 
