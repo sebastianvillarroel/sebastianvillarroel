@@ -16,6 +16,7 @@ I learnt to program when I was a teenager, Pascal :). I have studied Industrial 
 - Looker
 - Snowplow
 - Google Analytics
+- Terraform, to a level on how to manage a project, create PRs.
 
 ### Languages
 
