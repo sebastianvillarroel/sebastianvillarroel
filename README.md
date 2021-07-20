@@ -11,7 +11,6 @@ I learnt to program when I was a teenager, Pascal :). I have studied Industrial 
 - AWS
 - Dbt
 - Airflow
-- Exasol
 - Tableau
 - Looker
 - Snowplow
