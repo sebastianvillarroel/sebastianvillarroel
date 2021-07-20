@@ -20,9 +20,7 @@ I learnt to program when I was a teenager, Pascal :). I have studied Industrial 
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianvillarroel&layout=compact&langs_count=10)](https://github.com/sebastianvillarroel)
-
-and
+- Python
 - SQL
 - Bash
 - Terraform, to a level on how to manage a project, create PRs.
@@ -30,3 +28,7 @@ and
 ### Contributions Overview
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=sebastianvillarroel&count_private=true)](https://github.com/sebastianvillarroel/)
+
+
+### Live stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianvillarroel&layout=compact&langs_count=10)](https://github.com/sebastianvillarroel)
