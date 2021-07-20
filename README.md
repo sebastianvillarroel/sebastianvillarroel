@@ -16,6 +16,7 @@ I learnt to program when I was a teenager, Pascal :). I have studied Industrial 
 - Looker
 - Snowplow
 - Google Analytics
+- Exasol
 
 ### Languages
 
