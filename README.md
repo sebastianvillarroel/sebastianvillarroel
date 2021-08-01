@@ -2,7 +2,7 @@
 I am Sebastián Villarroel, was born in Chile, moved to Germany in 2008 and now based in Berlin.
 I learnt to program when I was a teenager, Pascal :). I have studied Industrial Engineering, worked mainly in the financial industry and then decided to start an insurance company in 2016
 
-- 🔭 I’m currently working in a prototype. Before I founded Coya AG with Andrew Shaw back in September 2016.
+- 🔭 I’m currently working in a prototype. Before I founded Coya AG with Andrew Shaw back in September 2016, for which I was working as CIO
 - 🌱 I’m currently learning clustering methods in Python
 - 📫 CV / How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastianvillarroel)
 
