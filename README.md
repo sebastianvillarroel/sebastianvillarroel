@@ -10,13 +10,12 @@ I learnt to program when I was a teenager, Pascal :). I have studied Industrial 
 ### Cloud, Tools and Technologies
 
 - AWS
+- Google Cloud
 - Dbt
 - Airflow
-- Tableau
-- Looker
-- Snowplow
-- Google Analytics
-- Exasol
+- Tableau / Looker
+- Snowplow / Google Analytics
+- Redshift / BigQuery / Exasol
 
 ### Languages
 
