@@ -2,7 +2,7 @@
 I am Sebastián Villarroel. I was born in Chile and have lived in Germany since 2008.
 I learnt to program when I was a teenager, Pascal :). I have studied Industrial Engineering, worked mainly in the financial industry and then decided to start an insurance company in 2016
 
-- 🔭 I’m currently working on a prototype and freelancing. Reach out if you want to speak about projects.
+- 🔭 I’m currently working at Orange Business.
 - 🌱 I’m currently learning clustering methods in Python.
 - 📫 I founded Coya AG with Andrew Shaw back in September 2016, for which I was working as CIO until July 2021
 - 📫 CV / How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastianvillarroel)
@@ -16,10 +16,12 @@ I learnt to program when I was a teenager, Pascal :). I have studied Industrial 
 - Tableau / Looker
 - Snowplow / Google Analytics
 - Redshift / BigQuery / Exasol / PostgreSQL
+- Docker
+- Some Kubernetes
 
 ### Languages
 
 - Python
 - SQL
 - Bash
-- Terraform, to a level on how to manage a project, create PRs.
+- Terraform
