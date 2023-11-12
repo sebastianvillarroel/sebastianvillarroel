@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Sebastián Villarroel. I was born in Chile and have lived in Germany since 2008.
-I learnt to program when I was a teenager, Pascal :). I have studied Industrial Engineering, worked mainly in the financial industry and then decided to start an insurance company in 2016
+I learnt to program when I was a teenager, Pascal :). I have studied Industrial Engineering, and worked for many years in the financial industry, both in startups and big organizations.
 
 - 🔭 I’m currently working at Orange Business.
 - 🌱 I’m currently learning clustering methods in Python.
