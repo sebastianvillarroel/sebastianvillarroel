@@ -3,8 +3,8 @@ I am Sebastián Villarroel. I was born in Chile and have lived in Germany since 
 I learnt to program when I was a teenager, Pascal :). I have studied Industrial Engineering, and worked for many years in the financial industry, both in startups and big organizations.
 
 - 🔭 I’m currently working at Orange Business.
-- 🌱 I’m currently learning clustering methods in Python.
 - 📫 I founded Coya AG with Andrew Shaw back in September 2016, for which I was working as CIO until July 2021
+- 📫 Now Head of Cloud & Data Services at Orange Digital in Germanay
 - 📫 CV / How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastianvillarroel)
 
 ### Cloud, Tools and Technologies
