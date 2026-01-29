@@ -1,27 +1,32 @@
-### Hi there 👋
-I am Sebastián Villarroel. I was born in Chile and have lived in Germany since 2008.
-I learnt to program when I was a teenager, Pascal :). I have studied Industrial Engineering, and worked for many years in the financial industry, both in startups and big organizations.
+Hi there 👋
 
-- 🔭 I’m currently working at Orange Business.
-- 📫 I founded Coya AG with Andrew Shaw back in September 2016, for which I was working as CIO until July 2021
-- 📫 Now Head of Cloud & Data Services at Orange Digital in Germanay
-- 📫 CV / How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastianvillarroel)
+I’m Sebastián, an Industrial Engineer with a long-standing passion for software and data.
+Born in Chile, living in Germany since 2008.
 
-### Cloud, Tools and Technologies
+I started programming as a teenager (Pascal era 😄) and have since led teams and platforms at the intersection of data engineering, analytics, and cloud architecture, across startups and large organizations in the financial and digital services space.
 
-- AWS
-- Google Cloud
-- Dbt
-- Airflow
-- Tableau / Looker
-- Snowplow / Google Analytics
-- Redshift / BigQuery / Exasol / PostgreSQL
+🔭 Currently Head of Cloud & Data Services at Orange Business (Germany)
+
+🚀 Co-founded Coya AG in 2016 and served as CIO until 2021
+
+🧠 Background spanning data platforms, analytics engineering, and cloud-based architectures
+
+📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/sebastianvillarroel)
+
+### Cloud, Tools & Platforms
+
+- AWS, Google Cloud
+- dbt, Airflow
+- Tableau, Looker
+- Snowplow, Google Analytics
+- Redshift, BigQuery, Exasol, PostgreSQL
 - Docker
-- Some Kubernetes
+- Kubernetes, Helm (working knowledge)
 
-### Languages
+### Languages & IaC
 
 - Python
 - SQL
 - Bash
 - Terraform
+  
