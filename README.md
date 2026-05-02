@@ -1,32 +1,42 @@
-Hi there 👋
+## Hi there 👋
 
-I’m Sebastián, an Industrial Engineer with a long-standing passion for software and data.
-Born in Chile, living in Germany since 2008.
+I'm Sebastián, Industrial Engineer by training, data/cloud engineer by trade,
+builder by default. Born in Chile, in Germany since 2008.
 
-I started programming as a teenager (Pascal era 😄) and have since led teams and platforms at the intersection of data engineering, analytics, and cloud architecture, across startups and large organizations in the financial and digital services space.
+Started programming as a teenager in the Pascal era 😄 and have been close to
+the craft ever since: through founding a company, running platforms, and now
+back to shipping code full-time.
 
-🔭 Currently Head of Cloud & Data Services at Orange Business (Germany)
+### What I'm doing right now
 
-🚀 Co-founded Coya AG in 2016 and served as CIO until 2021
+🛠 **Building [Puxti](https://getpuxti.com)** — a tool for data teams that propagates data model
+changes into reviewable PRs across dbt, orchestration, dashboards, and docs.
 
-🧠 Background spanning data platforms, analytics engineering, and cloud-based architectures
+### A bit of background
 
-📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/sebastianvillarroel)
+🏢 Co-founded **Coya AG** (digital insurance, Berlin) in 2016, served as CIO
+through the build-out, licensing, and first years of operation.
 
-### Cloud, Tools & Platforms
+☁️ Most recently Head of Cloud & Data Services at **Orange Business**, leading
+platform and data services across the DACH region.
 
-- AWS, Google Cloud
-- dbt, Airflow
-- Tableau, Looker
-- Snowplow, Google Analytics
-- Redshift, BigQuery, Exasol, PostgreSQL
-- Docker
-- Kubernetes, Helm (working knowledge)
+### How I think about the work
 
-### Languages & IaC
+Been following AI since 2008, from the symbolic era through deep learning to the
+current moment. The thing I find most interesting now isn't the models, it's
+what happens to the shape of engineering when execution barriers collapse:
+distribution and judgment become the scarce resources, and small teams can do what used to
+need fifty people. That's the bet behind Puxti.
 
-- Python
-- SQL
-- Bash
-- Terraform
-  
+### Stack
+
+- **Languages & IaC:** Python · SQL · Terraform · Bash
+- **Cloud:** AWS · Google Cloud · Azure
+- **Data:** dbt · Airflow · dlt · PostgreSQL · BigQuery · Redshift · Exasol
+- **AI/Search:** pgvector · embeddings · FastAPI
+- **Infra:** Docker · Kubernetes · Helm · ArgoCD · GitHub Actions
+- **BI:** Tableau · Looker · Superset
+
+### Elsewhere
+
+📫 [LinkedIn](https://www.linkedin.com/in/sebastianvillarroel) · Berlin 🇩🇪
