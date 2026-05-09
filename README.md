@@ -12,7 +12,7 @@ back to shipping code full-time.
 🛠 **Building [Puxti](https://getpuxti.com)** — a tool for data teams that propagates data model
 changes into reviewable PRs across dbt, orchestration, dashboards, and docs.
 
-🚀 **Founding Engineer at [Xpreso](https://xpreso.ai)** — AI-native recruiting
+🚀 **Founding Engineer at [WhyBrilliant](https://whybrilliant.com/)** — AI-native recruiting
 platform. Working on semantic matching, skills taxonomies, and learning-to-rank
 over candidate/job data, and product features.
 
