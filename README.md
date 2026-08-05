@@ -12,9 +12,7 @@ back to shipping code full-time.
 🛠 **Building [Puxti](https://getpuxti.com)** — a tool for data teams that propagates data model
 changes into reviewable PRs across dbt, orchestration, dashboards, and docs.
 
-🚀 **Founding Engineer at [WhyBrilliant](https://whybrilliant.com/)** — AI-native recruiting
-platform. Working on semantic matching, skills taxonomies, and learning-to-rank
-over candidate/job data, and product features.
+🚀 **Founding Engineer at [WhyBrilliant](https://whybrilliant.com/)** — AI-native recruiting platform. Bi-directional candidate↔job matching over a 1M-posting live corpus: pgvector ANN retrieval, structural gates, LLM scoring against a versioned rubric, and an LLM re-rank stage. Plus the operational half — scheduled ingest and enrichment pipelines, deadline-bounded model calls with stuck-row recovery, and structural CI guards for multi-tenant authorisation.
 
 ### A bit of background
 
@@ -34,12 +32,12 @@ need fifty people. That's the bet behind Puxti.
 
 ### Stack
 
-- **Languages & IaC:** Python · SQL · Terraform · Bash
-- **Cloud:** AWS · Google Cloud · Azure
-- **Data:** dbt · Airflow · dlt · PostgreSQL · BigQuery · Redshift · Exasol
-- **AI/Search:** pgvector · embeddings · FastAPI
-- **Infra:** Docker · Kubernetes · Helm · ArgoCD · GitHub Actions
-- **BI:** Tableau · Looker · Superset
+- Languages: TypeScript · Python · SQL · Bash
+- AI: Vertex AI (Gemini) · Claude · AI SDK · pgvector · embeddings · promptfoo · Langfuse
+- App: Next.js (App Router) · React · Prisma · PostgreSQL · Supabase · Vercel
+- Data: dbt · Airflow · dlt · BigQuery · Redshift · Exasol
+- Infra & IaC: Terraform · Docker · Kubernetes · Helm · ArgoCD · GitHub Actions · AWS · GCP · Azure
+- BI: Tableau · Looker · Superset
 
 ### Elsewhere
 
