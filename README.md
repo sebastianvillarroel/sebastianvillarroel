@@ -12,7 +12,7 @@ back to shipping code full-time.
 🛠 **Building [Puxti](https://getpuxti.com)** — a tool for data teams that propagates data model
 changes into reviewable PRs across dbt, orchestration, dashboards, and docs.
 
-🚀 **Founding Engineer at [WhyBrilliant](https://whybrilliant.com/)** — AI-native recruiting platform. Bi-directional candidate↔job matching over a 1M-posting live corpus: pgvector ANN retrieval, structural gates, LLM scoring against a versioned rubric, and an LLM re-rank stage. Plus the operational half — scheduled ingest and enrichment pipelines, deadline-bounded model calls with stuck-row recovery, and structural CI guards for multi-tenant authorisation.
+🚀 **Engineering Lead - Data at [Integral](https://group.integral.de/)** — AI-powered company ebuilding accounting, tax and payroll from first principles. I am responsible for agentic data solutions.
 
 ### A bit of background
 
