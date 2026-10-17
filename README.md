@@ -12,7 +12,7 @@ back to shipping code full-time.
 🛠 **Building [Puxti](https://getpuxti.com)** — a tool for data teams that propagates data model
 changes into reviewable PRs across dbt, orchestration, dashboards, and docs.
 
-🚀 **Engineering Lead - Data at [Integral](https://group.integral.de/)** — AI-powered company ebuilding accounting, tax and payroll from first principles. I am responsible for agentic data solutions.
+🚀 **Engineering Lead - Data at [Integral](https://group.integral.de/)** — AI-powered company building accounting, tax and payroll from first principles. I am responsible for agentic data solutions and analytics.
 
 ### A bit of background
 
